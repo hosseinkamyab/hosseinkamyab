@@ -14,6 +14,6 @@ Welcome to my GitHub! I'm a **computational designer** with a background in **ar
 ## 📬 Let's Connect!  
 🌐 [Website](https://hosseinkamyab.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/hosseinkamyab/)  
-📧 Email: hosseinkamyab96@gmail.com  
+📧 [Email](mailto:hosseinkamyab96@gmail.com)  
 
 Always happy to collaborate and exchange ideas! 🤝✨  
