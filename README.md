@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hossein
 
-<!--
-**hosseinkamyab/hosseinkamyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎭 **Computational Designer** | 🏛️ **Architect (B.Arch, M.Arch)** | 🤖 **AI Enthusiast**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a **computational designer** with a background in **architecture (B.Arch & M.Arch)**. My work bridges **design, technology, and artificial intelligence**, focusing on how AI can **transform architecture, generative design, and digital fabrication**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I'm Interested In  
+- 🏗 **AI in Architecture** – exploring how **machine learning, generative models, and automation** reshape design workflows  
+- 📊 **Computational Design** – developing parametric, algorithmic, and data-driven design strategies  
+- 🎨 **Digital Fabrication** – integrating computational techniques into material processes  
+- 🧠 **Neural Networks & Generative AI** – experimenting with AI-driven creativity in architecture  
+ 
+
+## 📬 Let's Connect!  
+🌐 [Website](https://hosseinkamyab.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hosseinkamyab/)  
+📧 Email: hosseinkamyab96@gmail.com  
+
+Always happy to collaborate and exchange ideas! 🤝✨  
